@@ -31,11 +31,4 @@ A collection of my projects using OLED displays and microcontrollers, from basic
 
 I used online resources and AI tools to assist with debugging and troubleshooting.
 
-## Future Improvements
-
-- Build more OLED-based games.
-- Improve game controls and responsiveness.
-- Experiment with animations and display optimization.
-- Explore more embedded systems projects.
-
 More experiments and improvements will be added as I continue learning.
