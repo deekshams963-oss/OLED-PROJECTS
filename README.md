@@ -10,6 +10,7 @@ A collection of my projects using OLED displays and microcontrollers, from basic
 - **OLEDAddressFinder** – Finding I²C addresses of connected devices.
 - **SpaceShipDodge** – A simple spaceship dodging game on an OLED.
 - **Tetris** – A Tetris game running on an OLED display.
+- **BinaryToPixelConvertor** – A program to resize and render the image by grayscaling, paking and flattening the the frame after 2000milliseconds of the video
 - **Video displayer** – Display a video in OLED, it has 2 programs: send.py and ArduinoOLEDdisplay.cpp . 
 
 
