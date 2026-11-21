@@ -10,6 +10,8 @@ A collection of my projects using OLED displays and microcontrollers, from basic
 - **OLEDAddressFinder** – Finding I²C addresses of connected devices.
 - **SpaceShipDodge** – A simple spaceship dodging game on an OLED.
 - **Tetris** – A Tetris game running on an OLED display.
+- **Video displayer** – Display a video in OLED, it has 2 programs: send.py and ArduinoOLEDdisplay.cpp . 
+
 
 ## Components
 
@@ -26,6 +28,7 @@ A collection of my projects using OLED displays and microcontrollers, from basic
 - Button inputs and user interaction
 - Game logic and animations
 - Debugging and troubleshooting
+- image rendering
 
 ## Development
 
