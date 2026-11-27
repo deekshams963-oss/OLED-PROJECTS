@@ -32,6 +32,8 @@ A collection of my projects using OLED displays and microcontrollers, from basic
 - Game logic and animations
 - Debugging and troubleshooting
 - image rendering
+- bit packing
+- quantisation
 
 ## Development
 
