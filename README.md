@@ -34,6 +34,7 @@ A collection of my projects using OLED displays and microcontrollers, from basic
 - image rendering
 - bit packing
 - quantisation
+- Edge Detection
 
 ## Development
 
