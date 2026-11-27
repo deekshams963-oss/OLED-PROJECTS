@@ -14,7 +14,7 @@ A collection of my projects using OLED displays and microcontrollers, from basic
 - **Video displayer** – Display a video in OLED, it has 2 programs: send.py and ArduinoOLEDdisplay.cpp .
                       - sendImprove.py uses clahe, GaussianBlur to enhance the image quality. It also makes sure the image is not stretched and preserves the orginal ratio of it width and height.
                       - FloydsDithering.py user Floyd Steinburg's dithering quantisation technique to display the video in oled SSD1306
-
+                      - CannyDisplay.py and SobelDisplay.py uses edge detection to display image
 
 ## Components
 
