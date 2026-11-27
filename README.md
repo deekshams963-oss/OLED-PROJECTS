@@ -12,8 +12,8 @@ A collection of my projects using OLED displays and microcontrollers, from basic
 - **Tetris** – A Tetris game running on an OLED display.
 - **BinaryToPixelConvertor** – A program to resize and render the image by grayscaling, paCking and flattening the the frame after 2000milliseconds of the video
 - **Video displayer** – Display a video in OLED, it has 2 programs: send.py and ArduinoOLEDdisplay.cpp .
--                     - sendImprove.py uses clahe, GaussianBlur to enhance the image quality. It also makes sure the image is not stretched and preserves the orginal ratio of it width and height.
--                     - FloydsDithering.py user Floyd Steinburg's dithering quantisation technique to display the video in oled SSD1306
+                      - sendImprove.py uses clahe, GaussianBlur to enhance the image quality. It also makes sure the image is not stretched and preserves the orginal ratio of it width and height.
+                      - FloydsDithering.py user Floyd Steinburg's dithering quantisation technique to display the video in oled SSD1306
 
 
 ## Components
